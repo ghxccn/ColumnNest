@@ -1,0 +1,6 @@
+E:\onedrive\model\C#\1. Develope\光伏立柱下料\ColumnNest\ColumnNest\bin\Debug\ColumnNest.dll
+E:\onedrive\model\C#\1. Develope\光伏立柱下料\ColumnNest\ColumnNest\bin\Debug\ColumnNest.pdb
+E:\onedrive\model\C#\1. Develope\光伏立柱下料\ColumnNest\ColumnNest\obj\Debug\ColumnNest.csproj.AssemblyReference.cache
+E:\onedrive\model\C#\1. Develope\光伏立柱下料\ColumnNest\ColumnNest\obj\Debug\ColumnNest.csproj.CoreCompileInputs.cache
+E:\onedrive\model\C#\1. Develope\光伏立柱下料\ColumnNest\ColumnNest\obj\Debug\ColumnNest.dll
+E:\onedrive\model\C#\1. Develope\光伏立柱下料\ColumnNest\ColumnNest\obj\Debug\ColumnNest.pdb
